@@ -20,7 +20,8 @@ body{
 }
 .main{
   display:flex;  
-  box-sizing:border-box;  flex-direction:column;
+  box-sizing:border-box;
+  flex-direction:column;
   width:100%;
   max-width:500px;
   gap:20px;
@@ -28,7 +29,8 @@ body{
 
 .main-wrapper {
   display:flex;
-  box-sizing:border-box;  flex-direction:column;
+  box-sizing:border-box;
+  flex-direction:column;
   width:100%;
   max-width:500px;
   gap:12px;
@@ -49,12 +51,16 @@ body{
   border-radius:8px;
   border:1px solid #0c9682;
   padding:20px 10px;
-  width:100%;font-size:16px;
+  width:100%;
+  font-size:16px;
+  box-sizing: border-box;
+
 }
 
 #check-btn{
   all: unset;
-  width:100%;    background-color:#0c9682;
+  width:100%;
+  background-color:#0c9682;
   display:flex;
   align-items: center;
   justify-content: center;
@@ -71,7 +77,8 @@ body{
 }
 
 #result{    
-  display:none;  background-color: #f3f6f4;
+  display:none;
+  background-color: #f3f6f4;
   padding:10px ;
   width: 100%;
   box-sizing: border-box;
