@@ -18,8 +18,8 @@ Palindrome Checker website - Challange from freeCodeCamp
 
 ### Links
 
-- Solution URL: [https://github.com/azur3105/palindrome-checker](https://github.com/azur3105/palindrome-checker)
-- Live Site URL: [https://azur3105.github.io/nft-preview-card-component/](https://azur3105.github.io/nft-preview-card-component/)
+- Solution URL: [https://azur3105.github.io/palindrome-checker/](https://azur3105.github.io/palindrome-checker/)
+- Live Site URL: [https://github.com/azur3105/palindrome-checker](https://github.com/azur3105/palindrome-checker)
 
 ## My process
 
