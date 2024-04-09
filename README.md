@@ -14,7 +14,7 @@ Palindrome Checker website - Challange from freeCodeCamp
 
 ### Screenshot
 
-![](./assets/images/screenshot.png)
+![](./screenshot.png)
 
 ### Links
 
