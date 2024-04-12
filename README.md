@@ -18,8 +18,8 @@ Palindrome Checker website - Challange from freeCodeCamp
 
 ### Links
 
-- Live Site URL: [https://github.com/azur3105/palindrome-checker](https://github.com/azur3105/palindrome-checker)
-- Solution URL: [https://azur3105.github.io/palindrome-checker/](https://azur3105.github.io/palindrome-checker/)
+- Solution URL: [https://github.com/azur3105/palindrome-checker](https://github.com/azur3105/palindrome-checker)
+- Live Site URL: [https://azur3105.github.io/palindrome-checker/](https://azur3105.github.io/palindrome-checker/)
 
 ## My process
 
